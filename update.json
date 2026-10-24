@@ -9,5 +9,5 @@
   ],
   "url": "downloads/setup_5.18.exe.part01",
   "mirror": "https://github.com/wangsudj/lvjing/releases/download/v5.18/setup_5.18.exe",
-  "notes": "· 修复：更新地址迁移到新服务器（不再依赖 Gitee）\n· 优化：安装包 87.7MB → 40.6MB\n· 优化：界面预览图改为 JPEG，启动更快"
+  "notes": "· 修复：更新地址迁移\n· 优化：安装包瘦身到 40.6MB"
 }
