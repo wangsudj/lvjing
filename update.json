@@ -1,13 +1,13 @@
 {
-  "version": "5.18",
-  "size": 42527580,
-  "sha256": "f1330c2c5cdb13a94ac9ce67ff5a423ed6efb24763d846d357bf9899c1727cad",
+  "version": "5.19",
+  "size": 42524092,
+  "sha256": "236715e0072c9f85859ad75d79ef1b161a8a2145ce3e6e93a91427cc73d7e274",
   "parts": [
-    "downloads/setup_5.18.exe.part01",
-    "downloads/setup_5.18.exe.part02",
-    "downloads/setup_5.18.exe.part03"
+    "downloads/setup_5.19.exe.part01",
+    "downloads/setup_5.19.exe.part02",
+    "downloads/setup_5.19.exe.part03"
   ],
-  "url": "downloads/setup_5.18.exe.part01",
-  "mirror": "https://github.com/wangsudj/lvjing/releases/download/v5.18/setup_5.18.exe",
-  "notes": "· 修复：更新地址迁移\n· 优化：安装包瘦身到 40.6MB"
+  "url": "downloads/setup_5.19.exe.part01",
+  "mirror": "https://github.com/wangsudj/lvjing/releases/download/v5.19/setup_5.19.exe",
+  "notes": "· 新增：\n· 修复：\n· 优化：\n（发布前请把上面三条改成实际内容，留空会自动跳过）"
 }
