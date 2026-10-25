@@ -1,7 +1,7 @@
 {
   "version": "5.24",
-  "size": 42541292,
-  "sha256": "b105f7b56501eed6e95adb3ee829b6e923799761e48cc6da4df49db0f5e2924f",
+  "size": 42538485,
+  "sha256": "08f9fad25a0113addc7c6db826319786c89eaeb4100060d09f9e8d7a6a226cb2",
   "parts": [
     "downloads/setup_5.24.exe.part01",
     "downloads/setup_5.24.exe.part02",
@@ -9,5 +9,5 @@
   ],
   "url": "downloads/setup_5.24.exe.part01",
   "mirror": "https://github.com/wangsudj/lvjing/releases/download/v5.24/setup_5.24.exe",
-  "notes": "· 修复：历史分卷堆积导致发布变慢\n· 优化：发布前自动清理旧分卷"
+  "notes": "· 新增：\n· 修复：\n· 优化：\n（发布前请把上面三条改成实际内容，留空会自动跳过）"
 }
