@@ -1,13 +1,13 @@
 {
-  "version": "5.30",
-  "size": 42540173,
-  "sha256": "44a6138980e9804f6b79d565122aa73406d71ac3bca8e0293df70921ca33f23f",
+  "version": "5.31",
+  "size": 42546556,
+  "sha256": "33665fc681f9fb3a30df0f57131affaddb853ae6c6b5ae70088be97628cab5c9",
   "parts": [
-    "https://lvjing-tool.pages.dev/downloads/setup_5.30.exe.part01",
-    "https://lvjing-tool.pages.dev/downloads/setup_5.30.exe.part02",
-    "https://lvjing-tool.pages.dev/downloads/setup_5.30.exe.part03"
+    "https://lvjing-tool.pages.dev/downloads/setup_5.31.exe.part01",
+    "https://lvjing-tool.pages.dev/downloads/setup_5.31.exe.part02",
+    "https://lvjing-tool.pages.dev/downloads/setup_5.31.exe.part03"
   ],
-  "url": "https://lvjing-tool.pages.dev/api/dl?v=5.30",
-  "mirror": "https://github.com/wangsudj/lvjing/releases/download/v5.30/setup_5.30.exe",
-  "notes": "· 修复：更新地址迁移到新服务器（不再依赖 Gitee）\n· 优化：安装包体积 87.7MB → 40.6MB\n· 优化：更新下载改为单文件直链，失败自动切备用"
+  "url": "https://lvjing-tool.pages.dev/api/dl?v=5.31",
+  "mirror": "https://github.com/wangsudj/lvjing/releases/download/v5.31/setup_5.31.exe",
+  "notes": "· 新增：\n· 修复：\n· 优化：\n（发布前请把上面三条改成实际内容，留空会自动跳过）"
 }
