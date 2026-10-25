@@ -1,21 +1,21 @@
 {
-  "version": "5.49",
-  "size": 42557179,
-  "sha256": "167306e033a341fa1a108286798f0619301af7e8eb6588599df5a3c6bcf9515b",
+  "version": "5.50",
+  "size": 42562432,
+  "sha256": "ad128781c6c2d3844ee413f7abb1dc4b429b668d11d790c0925d84d5d809c9b4",
   "parts": [
-    "https://atomgit.com/wangsudj11111/lvjing/releases/download/lvjing-v5.49/setup_5.49.exe.part01",
-    "https://atomgit.com/wangsudj11111/lvjing/releases/download/lvjing-v5.49/setup_5.49.exe.part02",
-    "https://atomgit.com/wangsudj11111/lvjing/releases/download/lvjing-v5.49/setup_5.49.exe.part03",
-    "https://atomgit.com/wangsudj11111/lvjing/releases/download/lvjing-v5.49/setup_5.49.exe.part04",
-    "https://atomgit.com/wangsudj11111/lvjing/releases/download/lvjing-v5.49/setup_5.49.exe.part05",
-    "https://atomgit.com/wangsudj11111/lvjing/releases/download/lvjing-v5.49/setup_5.49.exe.part06"
+    "https://atomgit.com/wangsudj11111/lvjing/releases/download/lvjing-v5.50/setup_5.50.exe.part01",
+    "https://atomgit.com/wangsudj11111/lvjing/releases/download/lvjing-v5.50/setup_5.50.exe.part02",
+    "https://atomgit.com/wangsudj11111/lvjing/releases/download/lvjing-v5.50/setup_5.50.exe.part03",
+    "https://atomgit.com/wangsudj11111/lvjing/releases/download/lvjing-v5.50/setup_5.50.exe.part04",
+    "https://atomgit.com/wangsudj11111/lvjing/releases/download/lvjing-v5.50/setup_5.50.exe.part05",
+    "https://atomgit.com/wangsudj11111/lvjing/releases/download/lvjing-v5.50/setup_5.50.exe.part06"
   ],
-  "url": "https://atomgit.com/wangsudj11111/lvjing/releases/download/lvjing-v5.49/setup_5.49.exe.part01",
+  "url": "https://atomgit.com/wangsudj11111/lvjing/releases/download/lvjing-v5.50/setup_5.50.exe.part01",
   "mirror": "",
   "sources": [
-    "https://atomgit.com/wangsudj11111/lvjing/releases/download/lvjing-v5.49/setup_5.49.exe.part01",
-    "https://lvjing-tool.pages.dev/api/dl?v=5.49",
-    "https://lvjing-tool.pages.dev/downloads/setup_5.49.exe.part01"
+    "https://atomgit.com/wangsudj11111/lvjing/releases/download/lvjing-v5.50/setup_5.50.exe.part01",
+    "https://lvjing-tool.pages.dev/api/dl?v=5.50",
+    "https://lvjing-tool.pages.dev/downloads/setup_5.50.exe.part01"
   ],
   "notes": "· 新增：\n· 修复：\n· 优化：\n（发布前请把上面三条改成实际内容，留空会自动跳过）"
 }
