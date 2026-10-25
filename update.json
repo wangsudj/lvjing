@@ -1,13 +1,13 @@
 {
-  "version": "5.27",
-  "size": 42531737,
-  "sha256": "97710c8adbd767a1b41c8af753188f1394f174568badddd82499af962001aba3",
+  "version": "5.28",
+  "size": 42533641,
+  "sha256": "ae7cb1443662bfb665258f6327ff95d435935610bd82f6ee73934e3e190d1a72",
   "parts": [
-    "downloads/setup_5.27.exe.part01",
-    "downloads/setup_5.27.exe.part02",
-    "downloads/setup_5.27.exe.part03"
+    "downloads/setup_5.28.exe.part01",
+    "downloads/setup_5.28.exe.part02",
+    "downloads/setup_5.28.exe.part03"
   ],
-  "url": "downloads/setup_5.27.exe.part01",
-  "mirror": "https://github.com/wangsudj/lvjing/releases/download/v5.27/setup_5.27.exe",
+  "url": "downloads/setup_5.28.exe.part01",
+  "mirror": "https://github.com/wangsudj/lvjing/releases/download/v5.28/setup_5.28.exe",
   "notes": "· 新增：\n· 修复：\n· 优化：\n（发布前请把上面三条改成实际内容，留空会自动跳过）"
 }
