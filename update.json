@@ -2,18 +2,11 @@
   "version": "5.50",
   "size": 42562432,
   "sha256": "ad128781c6c2d3844ee413f7abb1dc4b429b668d11d790c0925d84d5d809c9b4",
-  "parts": [
-    "https://atomgit.com/wangsudj11111/lvjing/releases/download/lvjing-v5.50/setup_5.50.exe.part01",
-    "https://atomgit.com/wangsudj11111/lvjing/releases/download/lvjing-v5.50/setup_5.50.exe.part02",
-    "https://atomgit.com/wangsudj11111/lvjing/releases/download/lvjing-v5.50/setup_5.50.exe.part03",
-    "https://atomgit.com/wangsudj11111/lvjing/releases/download/lvjing-v5.50/setup_5.50.exe.part04",
-    "https://atomgit.com/wangsudj11111/lvjing/releases/download/lvjing-v5.50/setup_5.50.exe.part05",
-    "https://atomgit.com/wangsudj11111/lvjing/releases/download/lvjing-v5.50/setup_5.50.exe.part06"
-  ],
-  "url": "https://atomgit.com/wangsudj11111/lvjing/releases/download/lvjing-v5.50/setup_5.50.exe.part01",
+  "parts": [],
+  "url": "https://atomgit.com/wangsudj11111/lvjing/releases/download/lvjing-v5.50/setup_5.50.exe",
   "mirror": "",
   "sources": [
-    "https://atomgit.com/wangsudj11111/lvjing/releases/download/lvjing-v5.50/setup_5.50.exe.part01",
+    "https://atomgit.com/wangsudj11111/lvjing/releases/download/lvjing-v5.50/setup_5.50.exe",
     "https://lvjing-tool.pages.dev/api/dl?v=5.50",
     "https://lvjing-tool.pages.dev/downloads/setup_5.50.exe.part01"
   ],
