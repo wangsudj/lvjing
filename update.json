@@ -3,19 +3,19 @@
   "size": 42566053,
   "sha256": "deaadfe6d4cddd206e649f141bbaebc8ed27c1474c6a6d6465f28ec55bbf469e",
   "parts": [
-    "https://lvjing-tool.pages.dev/downloads/setup_5.46.exe.part01",
-    "https://lvjing-tool.pages.dev/downloads/setup_5.46.exe.part02",
-    "https://lvjing-tool.pages.dev/downloads/setup_5.46.exe.part03",
-    "https://lvjing-tool.pages.dev/downloads/setup_5.46.exe.part04",
-    "https://lvjing-tool.pages.dev/downloads/setup_5.46.exe.part05"
+    "https://atomgit.com/wangsudj11111/lvjing/releases/download/lvjing-v5.46/setup_5.46.exe.part01",
+    "https://atomgit.com/wangsudj11111/lvjing/releases/download/lvjing-v5.46/setup_5.46.exe.part02",
+    "https://atomgit.com/wangsudj11111/lvjing/releases/download/lvjing-v5.46/setup_5.46.exe.part03",
+    "https://atomgit.com/wangsudj11111/lvjing/releases/download/lvjing-v5.46/setup_5.46.exe.part04",
+    "https://atomgit.com/wangsudj11111/lvjing/releases/download/lvjing-v5.46/setup_5.46.exe.part05",
+    "https://atomgit.com/wangsudj11111/lvjing/releases/download/lvjing-v5.46/setup_5.46.exe.part06"
   ],
-  "url": "https://github.com/wangsudj/lvjing/releases/download/v5.46/setup_5.46.exe",
-  "mirror": "https://github.com/wangsudj/lvjing/releases/download/v5.46/setup_5.46.exe",
-  "notes": "· 新增：\n· 修复：\n· 优化：\n（发布前请把上面三条改成实际内容，留空会自动跳过）",
+  "url": "https://atomgit.com/wangsudj11111/lvjing/releases/download/lvjing-v5.46/setup_5.46.exe.part01",
+  "mirror": "",
   "sources": [
-    "https://github.com/wangsudj/lvjing/releases/download/v5.46/setup_5.46.exe",
-    "https://ghproxy.net/https://github.com/wangsudj/lvjing/releases/download/v5.46/setup_5.46.exe",
+    "https://atomgit.com/wangsudj11111/lvjing/releases/download/lvjing-v5.46/setup_5.46.exe.part01",
     "https://lvjing-tool.pages.dev/api/dl?v=5.46",
     "https://lvjing-tool.pages.dev/downloads/setup_5.46.exe.part01"
-  ]
+  ],
+  "notes": "国内加速：改由 AtomGit 托管下载"
 }
