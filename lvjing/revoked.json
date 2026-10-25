@@ -1,1 +1,10 @@
-{"revoked": ["LJ-TEST2"], "updated": "test"}
+{
+  "revoked": [
+    "LJ-1DC1F11D",
+    "LJ-84CDDF5E",
+    "LJ-8D150547",
+    "LJ-E5F57566",
+    "LJ-EFFA8121"
+  ],
+  "updated": "2026-10-26 01:32"
+}
