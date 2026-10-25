@@ -1,13 +1,15 @@
 {
-  "version": "5.40",
-  "size": 42557095,
-  "sha256": "eba76c92233c197f92beb550bb576fcabce9f0be542a5c9d6102bfc3cb2d8d9e",
+  "version": "5.41",
+  "size": 42547871,
+  "sha256": "97fa51b9971e94a81a946482afb79980f3e27d01ea399565e47974095a71f02b",
   "parts": [
-    "https://lvjing-tool.pages.dev/downloads/setup_5.40.exe.part01",
-    "https://lvjing-tool.pages.dev/downloads/setup_5.40.exe.part02",
-    "https://lvjing-tool.pages.dev/downloads/setup_5.40.exe.part03"
+    "https://lvjing-tool.pages.dev/downloads/setup_5.41.exe.part01",
+    "https://lvjing-tool.pages.dev/downloads/setup_5.41.exe.part02",
+    "https://lvjing-tool.pages.dev/downloads/setup_5.41.exe.part03",
+    "https://lvjing-tool.pages.dev/downloads/setup_5.41.exe.part04",
+    "https://lvjing-tool.pages.dev/downloads/setup_5.41.exe.part05"
   ],
-  "url": "https://lvjing-tool.pages.dev/api/dl?v=5.40",
-  "mirror": "https://github.com/wangsudj/lvjing/releases/download/v5.40/setup_5.40.exe",
+  "url": "https://lvjing-tool.pages.dev/api/dl?v=5.41",
+  "mirror": "https://github.com/wangsudj/lvjing/releases/download/v5.41/setup_5.41.exe",
   "notes": "· 新增：\n· 修复：\n· 优化：\n（发布前请把上面三条改成实际内容，留空会自动跳过）"
 }
