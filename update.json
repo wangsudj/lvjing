@@ -11,5 +11,10 @@
   ],
   "url": "https://github.com/wangsudj/lvjing/releases/download/v5.46/setup_5.46.exe",
   "mirror": "https://github.com/wangsudj/lvjing/releases/download/v5.46/setup_5.46.exe",
-  "notes": "· 新增：\n· 修复：\n· 优化：\n（发布前请把上面三条改成实际内容，留空会自动跳过）"
+  "notes": "· 新增：\n· 修复：\n· 优化：\n（发布前请把上面三条改成实际内容，留空会自动跳过）",
+  "sources": [
+    "https://github.com/wangsudj/lvjing/releases/download/v5.46/setup_5.46.exe",
+    "https://ghproxy.net/https://github.com/wangsudj/lvjing/releases/download/v5.46/setup_5.46.exe",
+    "https://lvjing-tool.pages.dev/api/dl?v=5.46"
+  ]
 }
