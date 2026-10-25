@@ -1,13 +1,13 @@
 {
-  "version": "5.24",
-  "size": 42538485,
-  "sha256": "08f9fad25a0113addc7c6db826319786c89eaeb4100060d09f9e8d7a6a226cb2",
+  "version": "5.25",
+  "size": 42532310,
+  "sha256": "2de145906f3bb007fdcb807b91782c074536e0c3900adbf7bc1edba5fca46f4d",
   "parts": [
-    "downloads/setup_5.24.exe.part01",
-    "downloads/setup_5.24.exe.part02",
-    "downloads/setup_5.24.exe.part03"
+    "downloads/setup_5.25.exe.part01",
+    "downloads/setup_5.25.exe.part02",
+    "downloads/setup_5.25.exe.part03"
   ],
-  "url": "downloads/setup_5.24.exe.part01",
-  "mirror": "https://github.com/wangsudj/lvjing/releases/download/v5.24/setup_5.24.exe",
+  "url": "downloads/setup_5.25.exe.part01",
+  "mirror": "https://github.com/wangsudj/lvjing/releases/download/v5.25/setup_5.25.exe",
   "notes": "· 新增：\n· 修复：\n· 优化：\n（发布前请把上面三条改成实际内容，留空会自动跳过）"
 }
