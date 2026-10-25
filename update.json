@@ -9,5 +9,5 @@
   ],
   "url": "downloads/setup_5.24.exe.part01",
   "mirror": "https://github.com/wangsudj/lvjing/releases/download/v5.24/setup_5.24.exe",
-  "notes": "· 新增：\n· 修复：\n· 优化：\n（发布前请把上面三条改成实际内容，留空会自动跳过）"
+  "notes": "· 修复：历史分卷堆积导致发布变慢\n· 优化：发布前自动清理旧分卷"
 }
