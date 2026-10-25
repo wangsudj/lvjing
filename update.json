@@ -1,13 +1,13 @@
 {
-  "version": "5.39",
-  "size": 42554047,
-  "sha256": "1c959f99344d1c05b63f5fcd8a032fadbdb05f94363c0c5ef0fd98346f4d369f",
+  "version": "5.40",
+  "size": 42557095,
+  "sha256": "eba76c92233c197f92beb550bb576fcabce9f0be542a5c9d6102bfc3cb2d8d9e",
   "parts": [
-    "https://lvjing-tool.pages.dev/downloads/setup_5.39.exe.part01",
-    "https://lvjing-tool.pages.dev/downloads/setup_5.39.exe.part02",
-    "https://lvjing-tool.pages.dev/downloads/setup_5.39.exe.part03"
+    "https://lvjing-tool.pages.dev/downloads/setup_5.40.exe.part01",
+    "https://lvjing-tool.pages.dev/downloads/setup_5.40.exe.part02",
+    "https://lvjing-tool.pages.dev/downloads/setup_5.40.exe.part03"
   ],
-  "url": "https://lvjing-tool.pages.dev/api/dl?v=5.39",
-  "mirror": "https://github.com/wangsudj/lvjing/releases/download/v5.39/setup_5.39.exe",
+  "url": "https://lvjing-tool.pages.dev/api/dl?v=5.40",
+  "mirror": "https://github.com/wangsudj/lvjing/releases/download/v5.40/setup_5.40.exe",
   "notes": "· 新增：\n· 修复：\n· 优化：\n（发布前请把上面三条改成实际内容，留空会自动跳过）"
 }
