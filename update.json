@@ -9,7 +9,7 @@
     "https://lvjing-tool.pages.dev/downloads/setup_5.44.exe.part04",
     "https://lvjing-tool.pages.dev/downloads/setup_5.44.exe.part05"
   ],
-  "url": "https://lvjing-tool.pages.dev/api/dl?v=5.44",
+  "url": "https://github.com/wangsudj/lvjing/releases/download/v5.44/setup_5.44.exe",
   "mirror": "https://github.com/wangsudj/lvjing/releases/download/v5.44/setup_5.44.exe",
   "notes": "· 新增：\n· 修复：\n· 优化：\n（发布前请把上面三条改成实际内容，留空会自动跳过）"
 }
