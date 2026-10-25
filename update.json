@@ -1,14 +1,14 @@
 {
-  "version": "5.51",
-  "size": 42558475,
-  "sha256": "d07c725826d4ed532f93f0b4cbd4e3482c4b5f80b45bff669414269322c71572",
+  "version": "5.52",
+  "size": 42542786,
+  "sha256": "e0c1de40018a1d9c5269b7e17cc4f0692ddc9a1204990011ef7cbb5fc235bfad",
   "parts": [],
-  "url": "https://atomgit.com/wangsudj11111/lvjing/releases/download/lvjing-v5.51/setup_5.51.exe",
+  "url": "https://atomgit.com/wangsudj11111/lvjing/releases/download/lvjing-v5.52/setup_5.52.exe",
   "mirror": "",
   "sources": [
-    "https://atomgit.com/wangsudj11111/lvjing/releases/download/lvjing-v5.51/setup_5.51.exe",
-    "https://lvjing-tool.pages.dev/api/dl?v=5.51",
-    "https://lvjing-tool.pages.dev/downloads/setup_5.51.exe.part01"
+    "https://atomgit.com/wangsudj11111/lvjing/releases/download/lvjing-v5.52/setup_5.52.exe",
+    "https://lvjing-tool.pages.dev/api/dl?v=5.52",
+    "https://lvjing-tool.pages.dev/downloads/setup_5.52.exe.part01"
   ],
   "notes": "· 新增：\n· 修复：\n· 优化：\n（发布前请把上面三条改成实际内容，留空会自动跳过）"
 }
