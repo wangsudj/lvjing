@@ -1,21 +1,21 @@
 {
-  "version": "5.46",
-  "size": 42566053,
-  "sha256": "deaadfe6d4cddd206e649f141bbaebc8ed27c1474c6a6d6465f28ec55bbf469e",
+  "version": "5.47",
+  "size": 42557506,
+  "sha256": "1db0fdd76f609c81edeff5bb2de5ec4f546fad746ed33816e9c2edebfbf3a223",
   "parts": [
-    "https://atomgit.com/wangsudj11111/lvjing/releases/download/lvjing-v5.46/setup_5.46.exe.part01",
-    "https://atomgit.com/wangsudj11111/lvjing/releases/download/lvjing-v5.46/setup_5.46.exe.part02",
-    "https://atomgit.com/wangsudj11111/lvjing/releases/download/lvjing-v5.46/setup_5.46.exe.part03",
-    "https://atomgit.com/wangsudj11111/lvjing/releases/download/lvjing-v5.46/setup_5.46.exe.part04",
-    "https://atomgit.com/wangsudj11111/lvjing/releases/download/lvjing-v5.46/setup_5.46.exe.part05",
-    "https://atomgit.com/wangsudj11111/lvjing/releases/download/lvjing-v5.46/setup_5.46.exe.part06"
+    "https://atomgit.com/wangsudj11111/lvjing/releases/download/lvjing-v5.47/setup_5.47.exe.part01",
+    "https://atomgit.com/wangsudj11111/lvjing/releases/download/lvjing-v5.47/setup_5.47.exe.part02",
+    "https://atomgit.com/wangsudj11111/lvjing/releases/download/lvjing-v5.47/setup_5.47.exe.part03",
+    "https://atomgit.com/wangsudj11111/lvjing/releases/download/lvjing-v5.47/setup_5.47.exe.part04",
+    "https://atomgit.com/wangsudj11111/lvjing/releases/download/lvjing-v5.47/setup_5.47.exe.part05",
+    "https://atomgit.com/wangsudj11111/lvjing/releases/download/lvjing-v5.47/setup_5.47.exe.part06"
   ],
-  "url": "https://atomgit.com/wangsudj11111/lvjing/releases/download/lvjing-v5.46/setup_5.46.exe.part01",
+  "url": "https://atomgit.com/wangsudj11111/lvjing/releases/download/lvjing-v5.47/setup_5.47.exe.part01",
   "mirror": "",
   "sources": [
-    "https://atomgit.com/wangsudj11111/lvjing/releases/download/lvjing-v5.46/setup_5.46.exe.part01",
-    "https://lvjing-tool.pages.dev/api/dl?v=5.46",
-    "https://lvjing-tool.pages.dev/downloads/setup_5.46.exe.part01"
+    "https://atomgit.com/wangsudj11111/lvjing/releases/download/lvjing-v5.47/setup_5.47.exe.part01",
+    "https://lvjing-tool.pages.dev/api/dl?v=5.47",
+    "https://lvjing-tool.pages.dev/downloads/setup_5.47.exe.part01"
   ],
-  "notes": "国内加速：改由 AtomGit 托管下载"
+  "notes": "· 新增：\n· 修复：\n· 优化：\n（发布前请把上面三条改成实际内容，留空会自动跳过）"
 }
