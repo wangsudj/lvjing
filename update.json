@@ -1,13 +1,13 @@
 {
-  "version": "5.36",
-  "size": 42552514,
-  "sha256": "a16ef91303856a16a31901704167c4570b44712218e6a4c2ad9ec6a201f89b08",
+  "version": "5.37",
+  "size": 42547638,
+  "sha256": "feba00ad0e9a5bb1f9b0956a89d4f72599c6f484fbb310e02c88c758ac911886",
   "parts": [
-    "https://lvjing-tool.pages.dev/downloads/setup_5.36.exe.part01",
-    "https://lvjing-tool.pages.dev/downloads/setup_5.36.exe.part02",
-    "https://lvjing-tool.pages.dev/downloads/setup_5.36.exe.part03"
+    "https://lvjing-tool.pages.dev/downloads/setup_5.37.exe.part01",
+    "https://lvjing-tool.pages.dev/downloads/setup_5.37.exe.part02",
+    "https://lvjing-tool.pages.dev/downloads/setup_5.37.exe.part03"
   ],
-  "url": "https://lvjing-tool.pages.dev/api/dl?v=5.36",
-  "mirror": "https://github.com/wangsudj/lvjing/releases/download/v5.36/setup_5.36.exe",
+  "url": "https://lvjing-tool.pages.dev/api/dl?v=5.37",
+  "mirror": "https://github.com/wangsudj/lvjing/releases/download/v5.37/setup_5.37.exe",
   "notes": "· 新增：\n· 修复：\n· 优化：\n（发布前请把上面三条改成实际内容，留空会自动跳过）"
 }
