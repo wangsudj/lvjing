@@ -7,7 +7,7 @@
     "downloads/setup_5.30.exe.part02",
     "downloads/setup_5.30.exe.part03"
   ],
-  "url": "downloads/setup_5.30.exe.part01",
+  "url": "https://github.com/wangsudj/lvjing/releases/download/v5.30/setup_5.30.exe",
   "mirror": "https://github.com/wangsudj/lvjing/releases/download/v5.30/setup_5.30.exe",
-  "notes": "· 新增：\n· 修复：\n· 优化：\n（发布前请把上面三条改成实际内容，留空会自动跳过）"
+  "notes": "· 修复：更新地址迁移到新服务器（不再依赖 Gitee）\n· 优化：安装包体积 87.7MB → 40.6MB\n· 优化：更新下载改为单文件直链，失败自动切备用"
 }
