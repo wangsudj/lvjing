@@ -1,8 +1,8 @@
 {
-  "version": "2.55",
-  "url": "https://proctool-web.pages.dev/downloads/setup_2.55.exe",
-  "size": 20802626,
-  "sha256": "f5fc240b9a915771a6c7bdca0e47d52839be05f0a1e84afa2ea2662c0960e34a",
-  "notes": "2.55：\n9.9：\n说明",
+  "version": "2.56",
+  "url": "https://atomgit.com/wangsudj11111/lvjing/releases/download/proctool-v2.56/setup_2.56.exe",
+  "size": 20805292,
+  "sha256": "2a67786fdf2d9d67ca64290af1f75578fc0a5c2b8ab9c5bb391b5cad77e439f5",
+  "notes": "2.56：\n2.55：\n9.9：\n说明",
   "date": "2026-10-26"
 }
