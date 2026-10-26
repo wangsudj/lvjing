@@ -1,13 +1,13 @@
 {
-  "version": "2.54",
-  "url": "https://proctool-web.pages.dev/downloads/setup_2.54.exe",
+  "version": "2.55",
+  "url": "https://proctool-web.pages.dev/downloads/setup_2.55.exe",
   "parts": [
-    "https://atomgit.com/wangsudj11111/lvjing/releases/download/proctool-v2.54/setup_2.54.exe.part01",
-    "https://atomgit.com/wangsudj11111/lvjing/releases/download/proctool-v2.54/setup_2.54.exe.part02",
-    "https://atomgit.com/wangsudj11111/lvjing/releases/download/proctool-v2.54/setup_2.54.exe.part03"
+    "https://atomgit.com/wangsudj11111/lvjing/releases/download/proctool-v2.55/setup_2.55.exe.part01",
+    "https://atomgit.com/wangsudj11111/lvjing/releases/download/proctool-v2.55/setup_2.55.exe.part02",
+    "https://atomgit.com/wangsudj11111/lvjing/releases/download/proctool-v2.55/setup_2.55.exe.part03"
   ],
-  "size": 20797785,
-  "sha256": "a012589a9aef382aacfc19d660aa15fdcfd74d06b15feaf6107716f8fb824e2d",
-  "notes": "2.54：\n2.53：\n2.52：\n2.51：\n2.50：\n2.49：\n2.48：\n2.47：\n2.46：\n2.45：\n2.44：\n2.43：\n2.42：\n2.41：\n2.39：\n2.38：\n2.37：\n2.36：\n2.35：",
+  "size": 20799895,
+  "sha256": "ca0d0d76bb5dcd8d7e27c8a873b6eb038525e313e6030c449ca325c744b8dc4a",
+  "notes": "2.55：\n2.54：\n2.53：\n2.52：\n2.51：\n2.50：\n2.49：\n2.48：\n2.47：\n2.46：\n2.45：\n2.44：\n2.43：\n2.42：\n2.41：\n2.39：\n2.38：\n2.37：\n2.36：\n2.35：",
   "date": "2026-10-26"
 }
