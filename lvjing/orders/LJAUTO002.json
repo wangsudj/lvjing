@@ -1,0 +1,11 @@
+{
+  "id": "LJAUTO002",
+  "hwid": "TEST-AAAA-BBBB-CCCC",
+  "days": 30,
+  "price": "29.9",
+  "plan": "30 天",
+  "status": "pending",
+  "ts": "2026-10-29 13:30:50",
+  "paid_at": "",
+  "note": ""
+}
