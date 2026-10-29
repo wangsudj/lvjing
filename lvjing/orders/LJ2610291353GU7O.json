@@ -4,8 +4,8 @@
   "days": 7,
   "price": "3",
   "plan": "7 天",
-  "status": "pending",
+  "status": "paid",
   "ts": "2026-10-29 13:53:54",
-  "paid_at": "",
+  "paid_at": "2026-10-29 13:57",
   "note": ""
 }
