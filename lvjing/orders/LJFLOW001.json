@@ -1,0 +1,11 @@
+{
+  "id": "LJFLOW001",
+  "hwid": "TEST-FLOW-0000-0001",
+  "days": 7,
+  "price": "3",
+  "plan": "7 天",
+  "status": "pending",
+  "ts": "2026-10-29 14:46:52",
+  "paid_at": "",
+  "note": ""
+}
