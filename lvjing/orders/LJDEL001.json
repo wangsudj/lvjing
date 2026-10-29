@@ -1,0 +1,11 @@
+{
+  "id": "LJDEL001",
+  "hwid": "TEST-DEL-0000-0001",
+  "days": 7,
+  "price": "3",
+  "plan": "7 天",
+  "status": "pending",
+  "ts": "2026-10-29 18:59:36",
+  "paid_at": "",
+  "note": ""
+}
