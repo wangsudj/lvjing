@@ -4,8 +4,9 @@
   "days": 30,
   "price": "29.9",
   "plan": "30 天",
-  "status": "pending",
+  "status": "paid",
   "ts": "2026-10-29 13:30:22",
-  "paid_at": "",
-  "note": ""
+  "paid_at": "2026-10-29 13:30:24",
+  "note": "",
+  "license_error": "SyntaxError: Attempt to import public Ed25519 key with invalid usage \"sign\"."
 }
