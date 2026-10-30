@@ -1,21 +1,13 @@
 {
-  "version": "5.85",
-  "size": 42825885,
-  "sha256": "056f1f2d11b356b8b77b2bd208c6442dc92bbe3e787c288da2ab3cbf17cf371b",
-  "parts": [
-    "https://lvjing-tool.pages.dev/downloads/setup_5.85.part01",
-    "https://lvjing-tool.pages.dev/downloads/setup_5.85.part02",
-    "https://lvjing-tool.pages.dev/downloads/setup_5.85.part03",
-    "https://lvjing-tool.pages.dev/downloads/setup_5.85.part04",
-    "https://lvjing-tool.pages.dev/downloads/setup_5.85.part05",
-    "https://lvjing-tool.pages.dev/downloads/setup_5.85.part06"
-  ],
-  "url": "https://atomgit.com/wangsudj11111/lvjing/releases/download/lvjing-v5.85/setup_5.85_056f1f2d.exe",
+  "version": "5.87",
+  "size": 42825756,
+  "sha256": "96d0184f863c9a497889a94acff5a82220d62d25d5f0990de81ba3e7c18e0ca5",
+  "parts": [],
+  "url": "https://atomgit.com/wangsudj11111/lvjing/releases/download/lvjing-v5.87/setup_5.87_96d0184f.exe",
   "mirror": "",
   "sources": [
-    "https://atomgit.com/wangsudj11111/lvjing/releases/download/lvjing-v5.85/setup_5.85_056f1f2d.exe",
-    "https://lvjing-tool.pages.dev/api/dl?v=5.85&f=setup_5.85_056f1f2d.exe",
-    "https://lvjing-tool.pages.dev/downloads/setup_5.85.part01"
+    "https://atomgit.com/wangsudj11111/lvjing/releases/download/lvjing-v5.87/setup_5.87_96d0184f.exe",
+    "https://lvjing-tool.pages.dev/api/dl?v=5.87&f=setup_5.87_96d0184f.exe"
   ],
   "notes": "· 新增：\n· 修复：\n· 优化：\n（发布前请把上面三条改成实际内容，留空会自动跳过）"
 }
