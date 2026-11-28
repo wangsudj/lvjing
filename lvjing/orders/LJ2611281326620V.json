@@ -4,8 +4,9 @@
   "days": 30,
   "price": "9.9",
   "plan": "30 天",
-  "status": "pending",
+  "status": "claimed",
   "ts": "2026-11-28 13:26:49",
   "paid_at": "",
-  "note": ""
+  "note": "",
+  "claimed_at": "2026-11-28 13:26:55"
 }
